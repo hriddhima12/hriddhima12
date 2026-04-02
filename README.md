@@ -44,15 +44,15 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 </div>
 
 ---
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hriddhima12&show_icons=true&hide_border=false&title_color=FF5C96&icon_color=FF85B3&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1&cache_seconds=1800" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hriddhima12&layout=compact&title_color=FF5C96&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1&cache_seconds=1800" height="160"/>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFADD2,FFB6C1&height=100&section=footer" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=hriddhima12&background=FFF0F5&ring=FF5C96&fire=FF85B3&currStreakLabel=FF5C96&sideLabels=FF5C96&dates=4A2035&sideNums=4A2035&currStreakNum=4A2035&border=FFB3D1" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hriddhima12&layout=compact&title_color=FF5C96&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1" height="160"/>
+
+</div>
 
 </div>
 
