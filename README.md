@@ -12,7 +12,7 @@
 
 ---
 
-## 🌸 About Me
+## 🧷 About Me
 
 > *Every challenge is just an opportunity in disguise.*
 
