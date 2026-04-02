@@ -24,26 +24,38 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 
 ---
 
+
+
 ## 🛠️ Skills & Tools
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFB3D1?style=for-the-badge&logo=python&logoColor=FF5C96)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD6E7?style=for-the-badge&logo=tensorflow&logoColor=FF5C96)
-![HTML5](https://img.shields.io/badge/HTML5-FFB3D1?style=for-the-badge&logo=html5&logoColor=FF5C96)
-![CSS3](https://img.shields.io/badge/CSS3-FFD6E7?style=for-the-badge&logo=css3&logoColor=FF5C96)
-![Canva](https://img.shields.io/badge/Canva-FFB3D1?style=for-the-badge&logo=canva&logoColor=FF5C96)
-![Notion](https://img.shields.io/badge/Notion-FFD6E7?style=for-the-badge&logo=notion&logoColor=FF5C96)
-![Java](https://img.shields.io/badge/Java-FFB3D1?style=for-the-badge&logo=openjdk&logoColor=FF5C96)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E7?style=for-the-badge&logo=javascript&logoColor=FF5C96)
-![MySQL](https://img.shields.io/badge/DBMS-FFD6E7?style=for-the-badge&logo=mysql&logoColor=FF5C96)
-![Microsoft Excel](https://img.shields.io/badge/Excel-FFB3D1?style=for-the-badge&logo=microsoft-excel&logoColor=FF5C96)
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFD6E7?style=for-the-badge&logo=cisco&logoColor=FF5C96)
+![Python](https://img.shields.io/badge/Python-FFB3D1?style=for-the-badge&logo=python&logoColor=%23FF5C96)
+![Java](https://img.shields.io/badge/Java-FFB3D1?style=for-the-badge&logo=openjdk&logoColor=%23FF5C96)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD6E7?style=for-the-badge&logo=tensorflow&logoColor=%23FF5C96)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E7?style=for-the-badge&logo=javascript&logoColor=%23FF5C96)
+![HTML5](https://img.shields.io/badge/HTML5-FFB3D1?style=for-the-badge&logo=html5&logoColor=%23FF5C96)
+![CSS3](https://img.shields.io/badge/CSS3-FFD6E7?style=for-the-badge&logo=css3&logoColor=%23FF5C96)
+![C](https://img.shields.io/badge/C-FFB3D1?style=for-the-badge&logo=c&logoColor=%23FF5C96)
+![DBMS](https://img.shields.io/badge/DBMS-FFD6E7?style=for-the-badge&logo=mysql&logoColor=%23FF5C96)
+![Excel](https://img.shields.io/badge/Excel-FFB3D1?style=for-the-badge&logo=microsoft-excel&logoColor=%23FF5C96)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFD6E7?style=for-the-badge&logo=cisco&logoColor=%23FF5C96)
+![Canva](https://img.shields.io/badge/Canva-FFB3D1?style=for-the-badge&logo=canva&logoColor=%23FF5C96)
+![Notion](https://img.shields.io/badge/Notion-FFD6E7?style=for-the-badge&logo=notion&logoColor=%23FF5C96)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFB3D1?style=for-the-badge&logo=scikitlearn&logoColor=%23FF5C96)
 ![Git](https://img.shields.io/badge/Git-FFD6E7?style=for-the-badge&logo=git&logoColor=%23FF5C96)
 ![GitHub](https://img.shields.io/badge/GitHub-FFB3D1?style=for-the-badge&logo=github&logoColor=%23FF5C96)
+![NumPy](https://img.shields.io/badge/NumPy-FFD6E7?style=for-the-badge&logo=numpy&logoColor=%23FF5C96)
+![Pandas](https://img.shields.io/badge/Pandas-FFB3D1?style=for-the-badge&logo=pandas&logoColor=%23FF5C96)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FFD6E7?style=for-the-badge&logo=scikitlearn&logoColor=%23FF5C96)
+![Anaconda](https://img.shields.io/badge/Anaconda-FFB3D1?style=for-the-badge&logo=anaconda&logoColor=%23FF5C96)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-FFD6E7?style=for-the-badge&logo=adobephotoshop&logoColor=%23FF5C96)
+![CapCut](https://img.shields.io/badge/CapCut-FFB3D1?style=for-the-badge&logo=capcut&logoColor=%23FF5C96)
 
 </div>
+
+---
+
 
 
 
