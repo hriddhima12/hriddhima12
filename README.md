@@ -74,6 +74,8 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF85B3,FFB3D1,FF5C96&height=100&section=footer" width="100%"/>
 
+<h1> 🪷QOUTE🪷</h1>
+<hr/>
 *"The best paths are often the ones you least expect."* 🎀
 
 </div>
