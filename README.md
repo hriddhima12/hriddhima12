@@ -48,10 +48,9 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hriddhima12&background=FFF0F5&ring=FF5C96&fire=FF85B3&currStreakLabel=FF5C96&sideLabels=FF5C96&dates=4A2035&sideNums=4A2035&currStreakNum=4A2035&border=FFB3D1" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hriddhima12&layout=compact&title_color=FF5C96&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1&langs_count=6&hide_border=false" height="160"/>
+<img src="https://streak-stats.demolab.com?user=hriddhima12&background=FFF0F5&ring=FF5C96&fire=FF85B3&currStreakLabel=FF5C96&sideLabels=FF5C96&dates=4A2035&sideNums=4A2035&currStreakNum=4A2035&border=FFB3D1&hide_border=false" height="180"/>
 
+</div>
 </div>
 
 </div>
