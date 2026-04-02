@@ -39,6 +39,7 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 ![MySQL](https://img.shields.io/badge/DBMS-FFD6E7?style=for-the-badge&logo=mysql&logoColor=FF5C96)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-FFB3D1?style=for-the-badge&logo=microsoft-excel&logoColor=FF5C96)
 ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFD6E7?style=for-the-badge&logo=cisco&logoColor=FF5C96)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFB3D1?style=for-the-badge&logo=scikitlearn&logoColor=%23FF5C96)
 
 </div>
 
@@ -46,10 +47,12 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hriddhima12&show_icons=true&theme=default&title_color=FF5C96&icon_color=FF85B3&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1&hide_border=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hriddhima12&show_icons=true&hide_border=false&title_color=FF5C96&icon_color=FF85B3&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1&cache_seconds=1800" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hriddhima12&layout=compact&title_color=FF5C96&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hriddhima12&layout=compact&title_color=FF5C96&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1&cache_seconds=1800" height="160"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFADD2,FFB6C1&height=100&section=footer" width="100%"/>
 
 </div>
 
