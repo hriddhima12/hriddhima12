@@ -34,18 +34,22 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 ![CSS3](https://img.shields.io/badge/CSS3-FFD6E7?style=for-the-badge&logo=css3&logoColor=FF5C96)
 ![Canva](https://img.shields.io/badge/Canva-FFB3D1?style=for-the-badge&logo=canva&logoColor=FF5C96)
 ![Notion](https://img.shields.io/badge/Notion-FFD6E7?style=for-the-badge&logo=notion&logoColor=FF5C96)
+![Java](https://img.shields.io/badge/Java-FFB3D1?style=for-the-badge&logo=openjdk&logoColor=FF5C96)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD6E7?style=for-the-badge&logo=javascript&logoColor=FF5C96)
+![MySQL](https://img.shields.io/badge/DBMS-FFD6E7?style=for-the-badge&logo=mysql&logoColor=FF5C96)
+![Microsoft Excel](https://img.shields.io/badge/Excel-FFB3D1?style=for-the-badge&logo=microsoft-excel&logoColor=FF5C96)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFD6E7?style=for-the-badge&logo=cisco&logoColor=FF5C96)
 
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hriddhimasharma&show_icons=true&theme=default&title_color=FF5C96&icon_color=FF85B3&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1&hide_border=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hriddhima12&show_icons=true&theme=default&title_color=FF5C96&icon_color=FF85B3&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1&hide_border=false" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hriddhimasharma&layout=compact&title_color=FF5C96&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hriddhima12&layout=compact&title_color=FF5C96&text_color=4A2035&bg_color=FFF0F5&border_color=FFB3D1" height="160"/>
 
 </div>
 
@@ -72,10 +76,11 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85B3,FFB3D1,FF5C96&height=100&section=footer" width="100%"/>
+
 
 <h1> 🪷QOUTE🪷</h1>
 <hr/>
 *"The best paths are often the ones you least expect."* 🎀
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD6E7,FFADD2,FFB3D1&height=100&section=footer" width="100%"/>
 </div>
