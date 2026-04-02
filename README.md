@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF85B3,FFB3D1,FF5C96&height=200&section=header&text=Hi%20there!%20I'm%20Hriddhima%20%F0%9F%8E%80&fontSize=36&fontColor=fff&fontAlignY=38&desc=learner%20•%20explorer%20•%20creator&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFADD2,FFD6E7&height=200&section=header&text=Hi%20there!%20I'm%20Hriddhima%20%F0%9F%8E%80&fontSize=36&fontColor=FF5C96&fontAlignY=38&desc=learner%20•%20explorer%20•%20creator&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -43,7 +43,9 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 
 </div>
 
----
+
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -51,18 +53,6 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 <img src="https://streak-stats.demolab.com?user=hriddhima12&background=FFF0F5&ring=FF5C96&fire=FF85B3&currStreakLabel=FF5C96&sideLabels=FF5C96&dates=4A2035&sideNums=4A2035&currStreakNum=4A2035&border=FFB3D1&hide_border=false" height="180"/>
 
 </div>
-</div>
-
-</div>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hriddhimasharma&background=FFF0F5&ring=FF5C96&fire=FF85B3&currStreakLabel=FF5C96&sideNums=4A2035&currStreakNum=FF5C96&dates=8B5A6E&border=FFB3D1" height="160"/>
-
-</div>
-
 ---
 
 
@@ -82,7 +72,7 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 
 
 
-<h1> 🪷QOUTE🪷</h1>
+<h1> 🪷QUOTE🪷</h1>
 <hr/>
 *"The best paths are often the ones you least expect."* 🎀
 
