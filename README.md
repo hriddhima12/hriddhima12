@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF0F5,FFD6E7,FFADD2&height=200&section=header&text=Hi%20there!%20I'm%20Hriddhima%20%F0%9F%8E%80&fontSize=36&fontColor=FF5C96&fontAlignY=38&desc=✨%20learner%20•%20🌸%20explorer%20•%20🎀%20creator%20✨&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,FFF5F8,FFE8F0&height=200&section=header&text=Hi%20there!%20I'm%20Hriddhima%20%F0%9F%8E%80&fontSize=36&fontColor=FFB3D1&fontAlignY=38&desc=✨%20learner%20•%20🌸%20explorer%20•%20🎀%20creator%20✨&descAlignY=58&descSize=20&animation=fadeIn&descAnimation=fadeIn" width="100%"/>
 
 </div>
 
@@ -40,6 +40,8 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 ![Microsoft Excel](https://img.shields.io/badge/Excel-FFB3D1?style=for-the-badge&logo=microsoft-excel&logoColor=FF5C96)
 ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-FFD6E7?style=for-the-badge&logo=cisco&logoColor=FF5C96)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFB3D1?style=for-the-badge&logo=scikitlearn&logoColor=%23FF5C96)
+![Git](https://img.shields.io/badge/Git-FFD6E7?style=for-the-badge&logo=git&logoColor=%23FF5C96)
+![GitHub](https://img.shields.io/badge/GitHub-FFB3D1?style=for-the-badge&logo=github&logoColor=%23FF5C96)
 
 </div>
 
