@@ -51,6 +51,7 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 ![Anaconda](https://img.shields.io/badge/Anaconda-FFB3D1?style=for-the-badge&logo=anaconda&logoColor=%23FF5C96)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-FFD6E7?style=for-the-badge&logo=adobephotoshop&logoColor=%23FF5C96)
 ![CapCut](https://img.shields.io/badge/CapCut-FFB3D1?style=for-the-badge&logo=capcut&logoColor=%23FF5C96)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FFB3D1?style=for-the-badge&logo=opencv&logoColor=%23FF5C96)
 
 </div>
 
