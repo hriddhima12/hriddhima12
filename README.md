@@ -80,13 +80,14 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 ---
 
 
-## 🎀 Let's Connect
+## 🎀 Let's Connect 🌐
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB3D1?style=for-the-badge&logo=linkedin&logoColor=FF5C96)](https://www.linkedin.com/in/hri-89769a3a5/)
 [![Instagram](https://img.shields.io/badge/Instagram-FFD6E7?style=for-the-badge&logo=instagram&logoColor=FF5C96)](https://instagram.com/hriddhima.s)
 [![Email](https://img.shields.io/badge/Email-FFB3D1?style=for-the-badge&logo=gmail&logoColor=FF5C96)](mailto:hriddhimasharma@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-FFB3D1?style=for-the-badge&logo=instagram&logoColor=%23FF5C96)](https://www.instagram.com/hriddhima.s?igsh=MmVnaXE5a252dWE1)
 
 </div>
 
