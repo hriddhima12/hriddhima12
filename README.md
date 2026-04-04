@@ -100,5 +100,5 @@ When it comes to the future, I'm particularly drawn to opportunities in **AI & M
 <hr/>
 *"The best paths are often the ones you least expect."* 🎀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=001F5B&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3D1&height=120&section=footer" width="100%"/>
 </div>
